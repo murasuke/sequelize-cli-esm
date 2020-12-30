@@ -1,0 +1,14 @@
+{
+  "name": "sequelize-cli-esm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type":"module",
+  "dependencies": {
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "sequelize-cli-esm": "^5.0.6"
+  }
+}
